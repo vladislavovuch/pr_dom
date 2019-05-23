@@ -1,0 +1,184 @@
+{
+    "routes": [
+        {
+            "trainNumber": "635У",
+            "dispathCity": "Odessa",
+            "arrivalCity": "Vinnitsia",
+            "weekday": "Ср",
+            "dispathTime": "Сьогодні-17:56",
+            "arrivalTime": "Сьогодні-20:56",
+            "ticketCost": "121.16"
+        },
+        {
+            "trainNumber": "579Ф",
+            "dispathCity": "Lviv",
+            "arrivalCity": "Vinnitsia",
+            "weekday": "Пн",
+            "dispathTime": "Пн-00:32",
+            "arrivalTime": "Пн-04:06",
+            "ticketCost": "143.70"
+        },
+        {
+            "trainNumber": "745Ю",
+            "dispathCity": "Kharkiv",
+            "arrivalCity": "Vinnitsia",
+            "weekday": "Чт",
+            "dispathTime": "Чт-02:15",
+            "arrivalTime": "Чт-07:58",
+            "ticketCost": "229.83"
+        },
+        {
+            "trainNumber": "838М",
+            "dispathCity": "Kyiv",
+            "arrivalCity": "Vinnitsia",
+            "weekday": "Вт",
+            "dispathTime": "Вт-13:19",
+            "arrivalTime": "Вт-15:03",
+            "ticketCost": "70.04"
+        },
+        {
+            "trainNumber": "376Ц",
+            "dispathCity": "Vinnitsia",
+            "arrivalCity": "Odessa",
+            "weekday": "Вт",
+            "dispathTime": "Вт-14:13",
+            "arrivalTime": "Вт-17:42",
+            "ticketCost": "140.48"
+        },
+        {
+            "trainNumber": "241К",
+            "dispathCity": "Lviv",
+            "arrivalCity": "Odessa",
+            "weekday": "Вт",
+            "dispathTime": "Вт-10:03",
+            "arrivalTime": "Вт-17:12",
+            "ticketCost": "287.39"
+        },
+        {
+            "trainNumber": "370Ц",
+            "dispathCity": "Kharkiv",
+            "arrivalCity": "Odessa",
+            "weekday": "Пн",
+            "dispathTime": "Пн-14:13",
+            "arrivalTime": "Пн-20:39",
+            "ticketCost": "259.22"
+        },
+        {
+            "trainNumber": "011О",
+            "dispathCity": "Kyiv",
+            "arrivalCity": "Odessa",
+            "weekday": "Пт",
+            "dispathTime": "Пт-13:57",
+            "arrivalTime": "Пт-19:09",
+            "ticketCost": "209.31"
+        },
+        {
+            "trainNumber": "609С",
+            "dispathCity": "Vinnitsia",
+            "arrivalCity": "Lviv",
+            "weekday": "Пт",
+            "dispathTime": "Пт-04:21",
+            "arrivalTime": "Пт-07:24",
+            "ticketCost": "122.36"
+        },
+        {
+            "trainNumber": "967Х",
+            "dispathCity": "Odessa",
+            "arrivalCity": "Lviv",
+            "weekday": "Нд",
+            "dispathTime": "Нд-05:51",
+            "arrivalTime": "Нд-13:14",
+            "ticketCost": "297.45"
+        },
+        {
+            "trainNumber": "401Я",
+            "dispathCity": "Kharkiv",
+            "arrivalCity": "Lviv",
+            "weekday": "Нд",
+            "dispathTime": "Нд-04:02",
+            "arrivalTime": "Нд-12:21",
+            "ticketCost": "334.89"
+        },
+        {
+            "trainNumber": "090Д",
+            "dispathCity": "Kyiv",
+            "arrivalCity": "Lviv",
+            "weekday": "Пт",
+            "dispathTime": "Пт-23:36",
+            "arrivalTime": "Сб-04:37",
+            "ticketCost": "202.46"
+        },
+        {
+            "trainNumber": "380З",
+            "dispathCity": "Vinnitsia",
+            "arrivalCity": "Kharkiv",
+            "weekday": "Чт",
+            "dispathTime": "Чт-10:57",
+            "arrivalTime": "Чт-16:51",
+            "ticketCost": "237.08"
+        },
+        {
+            "trainNumber": "612Л",
+            "dispathCity": "Odessa",
+            "arrivalCity": "Kharkiv",
+            "weekday": "Чт",
+            "dispathTime": "Чт-20:44",
+            "arrivalTime": "Пт-02:31",
+            "ticketCost": "233.05"
+        },
+        {
+            "trainNumber": "897Р",
+            "dispathCity": "Lviv",
+            "arrivalCity": "Kharkiv",
+            "weekday": "Пт",
+            "dispathTime": "Пт-23:28",
+            "arrivalTime": "Сб-06:48",
+            "ticketCost": "295.44"
+        },
+        {
+            "trainNumber": "672Ш",
+            "dispathCity": "Kyiv",
+            "arrivalCity": "Kharkiv",
+            "weekday": "Вт",
+            "dispathTime": "Вт-11:03",
+            "arrivalTime": "Вт-14:44",
+            "ticketCost": "148.53"
+        },
+        {
+            "trainNumber": "591З",
+            "dispathCity": "Vinnitsia",
+            "arrivalCity": "Kyiv",
+            "weekday": "Ср",
+            "dispathTime": "Сьогодні-17:44",
+            "arrivalTime": "Сьогодні-19:53",
+            "ticketCost": "86.94"
+        },
+        {
+            "trainNumber": "901Ю",
+            "dispathCity": "Odessa",
+            "arrivalCity": "Kyiv",
+            "weekday": "Пт",
+            "dispathTime": "Пт-02:55",
+            "arrivalTime": "Пт-07:37",
+            "ticketCost": "189.18"
+        },
+        {
+            "trainNumber": "339Е",
+            "dispathCity": "Lviv",
+            "arrivalCity": "Kyiv",
+            "weekday": "Сб",
+            "dispathTime": "Сб-08:17",
+            "arrivalTime": "Сб-13:03",
+            "ticketCost": "192.40"
+        },
+        {
+            "trainNumber": "385Ф",
+            "dispathCity": "Kharkiv",
+            "arrivalCity": "Kyiv",
+            "weekday": "Ср",
+            "dispathTime": "Ср-01:36",
+            "arrivalTime": "Ср-06:22",
+            "ticketCost": "192.00"
+        }
+    ]
+}
